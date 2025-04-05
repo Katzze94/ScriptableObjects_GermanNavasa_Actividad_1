@@ -12,6 +12,9 @@ public class UIManager : MonoBehaviour
 
     public TextMeshProUGUI threeText;
 
+        public TextMeshProUGUI fourText;
+
+
    
 
     public InformacionTraduccion englishTranslation;
@@ -47,9 +50,10 @@ public class UIManager : MonoBehaviour
 
         if (selected != null)
         {
-            oneText.text = selected.frase;
-            twoText.text = selected.frase;
-            threeText.text = selected.frase;
+            oneText.text = selected.title;
+            twoText.text = selected.subtitle;
+            threeText.text = selected.description;
+            fourText.text = selected.footer;
             
         }
     }

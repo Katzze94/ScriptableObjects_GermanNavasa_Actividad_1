@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 571151c711f00e545821eeffa62e0d02, type: 3}
   m_Name: EsperantoTranslation
   m_EditorClassIdentifier: 
-  frase: Ili ne konscias pri la stormo kiu alproksimigas,mi estas tiu stormo.
+  title: " Mi estas la \u015Dtormo kiu alproksimi\u011Das"
+  subtitle: Neniu povas eskapi mian koleron.
+  description: "La ventoj ululas, la \u0109ielo mallumi\u011Das, kaj la tero tremas.
+    Mi estas neevitebla."
+  footer: "Prepari\u011Du, \u0109ar mi estas nepremebla."

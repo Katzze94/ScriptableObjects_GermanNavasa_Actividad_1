@@ -7,6 +7,9 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewTranslation", menuName = "Localization/Translation Data")]
 public class InformacionTraduccion : ScriptableObject
 {
-   public string frase;
+    public string title;
+    public string subtitle;
+    public string description;
+    public string footer;
     
 }

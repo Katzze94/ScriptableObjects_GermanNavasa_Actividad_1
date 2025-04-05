@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 571151c711f00e545821eeffa62e0d02, type: 3}
   m_Name: EnglishTranslation
   m_EditorClassIdentifier: 
-  frase: They are not aware of the storm that is coming. I am that storm.
+  title: I am the storm approaching
+  subtitle: No one can escape my wrath.
+  description: The winds are howling, the sky is darkening, and the ground trembles.
+    I am inevitable.
+  footer: Brace yourself, for I am unstoppable.

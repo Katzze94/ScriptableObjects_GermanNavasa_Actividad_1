@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 571151c711f00e545821eeffa62e0d02, type: 3}
   m_Name: "Espa\xF1olTranslation"
   m_EditorClassIdentifier: 
-  frase: No son conscientes de la tempestad que se avecina, yo soy esa tempestad.
+  title: Soy la tormenta que se acerca
+  subtitle: Nadie puede escapar de mi ira.
+  description: ' Los vientos rugen, el cielo se oscurece y la tierra tiembla. Soy
+    inevitable.'
+  footer: "Prep\xE1rate, porque soy imparable."
